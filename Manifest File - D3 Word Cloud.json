@@ -1,0 +1,7 @@
+{
+  "name": "D3 Word Cloud",
+  "description": "A D3.js-based word cloud visualization.",
+  "script": "https://storage.googleapis.com/my-visualization-bucket/d3-wordcloud.js",
+  "style": "https://storage.googleapis.com/my-visualization-bucket/d3-wordcloud.css",
+  "icon": "https://storage.googleapis.com/my-visualization-bucket/wordcloud-icon.png"
+}
